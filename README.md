@@ -1,4 +1,3 @@
-# cleaning_eda_predictions_flight_prices
 
 
 we have data from 8 airlines in India. two CSV archives one for economy flights and one for bussines flights. our goal is to analyze the data,
